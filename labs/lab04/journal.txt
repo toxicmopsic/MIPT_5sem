@@ -1,0 +1,2 @@
+{"name": "Джим", "surname": "Хокинс", "middle_name": null, "age": 15, "sex": "M", "married": false, "hobbies": ["treasure hunter"]}
+{"name": "Джон", "surname": "Сильвер", "middle_name": null, "age": 50, "sex": "M", "married": true, "hobbies": ["treasure", "alcohol"]}
